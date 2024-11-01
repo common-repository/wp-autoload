@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Charles Lecklider <wordpress@charles.lecklider.org>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "desc"
+msgstr "<p>description</p>"
+
+msgid "hdr_scripts"
+msgstr "Scripts"
+
+msgid "js_desc"
+msgstr "<p>description</p>"
+
+msgid "js_dir"
+msgstr "JavaScript Directory"
+
+msgid "js_dir_err"
+msgstr "Invalid characters in Scripts / JavaScript Directory"
+
+msgid "js_depends"
+msgstr "Dependencies"
+
+msgid "js_depends_err"
+msgstr "Invalid characters in Scripts / Dependencies"
+
+msgid "js_depends_always"
+msgstr "Always Load Dependencies"
+
+msgid "js_hierarchy"
+msgstr "Check hierarchy"
+
+msgid "js_template_parts"
+msgstr "Template Parts"
+
+msgid "hdr_styles"
+msgstr "Styles"
+
+msgid "css_desc"
+msgstr "<p>description</p>"
+
+msgid "css_dir"
+msgstr "CSS Directory"
+
+msgid "css_dir_error"
+msgstr "Invalid characters in Styles / CSS Directory"
+
+msgid "css_always"
+msgstr "Always"
+
+msgid "css_always_error"
+msgstr "Invalid characters in Styles / Always"
+
+msgid "css_hierarchy"
+msgstr "Check hierarchy"
+
+msgid "hdr_includes"
+msgstr "Includes"
+
+msgid "inc_dir"
+msgstr "Includes Directory"
+
+msgid "inc_dir_error"
+msgstr "Invalid characters in Includes Directory"
+
+msgid "inc_global"
+msgstr "Set global variable"
+
+msgid "inc_global_name"
+msgstr "Global variable name"
+
